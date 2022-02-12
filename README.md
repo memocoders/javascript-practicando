@@ -2,7 +2,7 @@
 
 JavaScript es un lenguaje increíblemente popular que sigue siendo poco entendido por muchas de las personas que lo usan. Esto se debe en gran parte a que se puede recoger fácilmente en el contexto de un proyecto específico sin aprenderlo desde cero.
 
-Por otro lado, JavaScript contrasta marcadamente con lenguajes como Java, C++, C# y Python, que se enseñan ampliamente a los programadores principiantes en los planes de estudio de Ciencias de la Computación. 
+Por otro lado, JavaScript contrasta marcadamente con lenguajes como Java, C++, C# y Python, que se enseñan ampliamente a los programadores principiantes en los planes de estudio de Ciencias de la Computación.
 
 Y si bien hay muchos recursos para el nuevo programador de JavaScript, la gran mayoría de ellos están contextualizados para un caso de uso específico (manipulación DOM o Node.js, por ejemplo). A la confusión se suma el hecho de que muchos de los creadores de estos materiales inventan sus propias "mejores prácticas", abstracciones y API no estándar.
 
@@ -13,9 +13,9 @@ Este conjunto de material está diseñado para llenar el vacío. Toma gran parte
 # Dónde obtener ayuda
 Puedes enviarme un tweet (@memocoders) con preguntas. 
 
-En nuestro repositorio de Github también hay una rama llamada soluciones. Puede acceder a él haciendo clic en el menú desplegable de la rama sobre el navegador de código en Github. Esta rama contiene soluciones a todos los problemas de práctica probados.
+En nuestro repositorio de Github también hay una rama llamada soluciones. Puede acceder a él haciendo clic en el menú desplegable de la rama sobre el navegador de código en Github.
 
-# Libro utlizado
+# Libro utilizado
 
 El libro se llama Learning Path : Beginning Javascript de la plataforma (O'Reilly Media, Inc.)[https://learning.oreilly.com/library/publisher/oreilly-media-inc/] 
 
