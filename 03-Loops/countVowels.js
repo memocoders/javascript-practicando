@@ -8,8 +8,21 @@ var isVowel = function (vowel) {
     vowel = vowel.toLowerCase();
     var resultVowal;
 
-    if (vowel === 'a') {
-        resultVowal = true;
+    switch (key) {
+        case 'a':
+        case 'e':
+        case 'i':
+        case 'o':
+        case 'u':
+            resultVowal = true;
+            break;
+        default:
+
+            break;
+    }
+
+    if (vowel === ) {
+        
     }else if (vowel === 'e') {
         resultVowal = true;
     }else if (vowel === 'i') {
@@ -17,7 +30,7 @@ var isVowel = function (vowel) {
     }else if (vowel === 'o') { 
         resultVowal = true;
     }else if (vowel === 'u' ) {
-        resultVowal = vowel;
+       
     }else{return false;}
 
     return resultVowal;
