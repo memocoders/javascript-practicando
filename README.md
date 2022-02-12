@@ -17,6 +17,6 @@ En nuestro repositorio de Github también hay una rama llamada soluciones. Puede
 
 # Libro utlizado
 
-El libro se llama Learning Path : Beginning Javascript de la plataforma !(O'Reilly Media, Inc.)[https://learning.oreilly.com/library/publisher/oreilly-media-inc/] 
+El libro se llama Learning Path : Beginning Javascript de la plataforma (O'Reilly Media, Inc.)[https://learning.oreilly.com/library/publisher/oreilly-media-inc/] 
 
-![Portada Libro](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![](https://i.ibb.co/GM959jp/Deepin-Screenshot-Seleccionar-rea-20220211235954.png "Logo Title Text 1")
