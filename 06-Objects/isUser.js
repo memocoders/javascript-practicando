@@ -13,4 +13,4 @@
 // => verdadero
 
 // console.log(esUsuario("semmypurewal");
-// => falso
+// => false

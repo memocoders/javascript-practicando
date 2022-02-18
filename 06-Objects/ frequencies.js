@@ -14,15 +14,5 @@
 //     => { "hello" : 1, "world" : 1 }
 
 // There are several ways you can do it, but it might be interesting to try it with
-// the `reduce` method that starts with an empty object.
-
-var frequencies = function (words) {
-    return words.reduce(function (frequencies, word) {
-        if (typeof frequencies[word] === "undefined") {
-            frequencies[word] = 0;
-        }
-        frequencies[word] = frequencies[word] + 1;
-        return frequencies;
-    }, {});
-};
+// the `reduce` method that starts with an empty objects.
 
